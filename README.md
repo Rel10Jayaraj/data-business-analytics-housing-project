@@ -85,6 +85,3 @@ Relton Abishek Jayaraj
 
 📧 reltonebi23@gmail.com
 🔗 LinkedIn | GitHub
-
-"Data is not just numbers — it's the story behind every decision."
-— Relton Abishek Jayaraj
