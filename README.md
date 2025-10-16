@@ -49,7 +49,7 @@ The project includes:
 ✅ Beginner-friendly and ready for extension to predictive modeling  
 
 ---
-## DATA SAMPLES
+## Data Visualization
 <img width="1536" height="802" alt="Figure_2" src="https://github.com/user-attachments/assets/81ffb796-ff76-4c0b-a4fe-d4d328746293" />
 <img width="1536" height="802" alt="Figure_1" src="https://github.com/user-attachments/assets/83509761-69c9-43a1-a45e-6fc571689aaa" />
 
